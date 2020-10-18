@@ -25,7 +25,7 @@ IT 行业相对于一般传统行业，发展更新速度更快，一旦停止�
 
 * [一个可以看执行过程的网站](http://www.pythontutor.com/visualize.html#mode=edit)
 
-
+* https://pyda.apachecn.org/#/14
 
 # Python 入门
 
